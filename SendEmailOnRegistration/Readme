@@ -1,0 +1,6 @@
+the SendEmailOnRegistration has an example of the following:
+1. send email on registration
+2. the email contains an activation link
+3. user can't login without first clicking on the activation link
+4. once logged in, the use can logou and change password
+5. when logged out, the user can request a new password
